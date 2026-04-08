@@ -40,7 +40,7 @@ A modern, responsive web application for discovering, comparing, and exploring f
 - Chrome Browser (for Selenium WebDriver)
 
 ### Setup
-
+Note: Backend is tested for Mac OS (Silicon) might needs some debugging for windows.
 #### Frontend Setup
 1. **Clone the repository**
    ```bash
